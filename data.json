@@ -1,0 +1,99 @@
+[
+  {
+    "id": "folder_1",
+    "type": "folder",
+    "title": "Folder 1",
+    "content": [
+      {
+        "id": "file_1",
+        "type": "file",
+        "title": "File 1"
+      },
+      {
+        "id": "file_2",
+        "type": "file",
+        "title": "File 1"
+      },
+      {
+        "id": "file_3",
+        "type": "file",
+        "title": "File 1"
+      },
+      {
+        "id": "folder_2",
+        "type": "folder",
+        "title": "Folder 21",
+        "content": [
+          {
+            "id": "folder_25",
+            "type": "folder",
+            "title": "Folder 25",
+            "content": [
+              {
+                "id": "file_356",
+                "type": "file",
+                "title": "File 356"
+              },
+              {
+                "id": "file_366",
+                "type": "file",
+                "title": "File 366"
+              }
+            ]
+          },
+          {
+            "id": "folder_24",
+            "type": "folder",
+            "title": "Folder 24",
+            "content": [
+              {
+                "id": "file_352",
+                "type": "file",
+                "title": "File 352"
+              },
+              {
+                "id": "file_363",
+                "type": "file",
+                "title": "File 363"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "folder_4",
+    "type": "folder",
+    "title": "Folder 34",
+    "content": [
+      {
+        "id": "file_56",
+        "type": "file",
+        "title": "File 56"
+      },
+      {
+        "id": "file_57",
+        "type": "file",
+        "title": "File 57"
+      },
+      {
+        "id": "file_58",
+        "type": "file",
+        "title": "File 58"
+      },
+      {
+        "id": "folder_22",
+        "type": "folder",
+        "title": "Folder 22",
+        "content": [
+          {
+            "id": "file_400",
+            "type": "file",
+            "title": "File 400"
+          }
+        ]
+      }
+    ]
+  }
+]
