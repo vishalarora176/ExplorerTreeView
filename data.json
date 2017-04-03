@@ -12,12 +12,12 @@
       {
         "id": "file_2",
         "type": "file",
-        "title": "File 1"
+        "title": "File 2"
       },
       {
         "id": "file_3",
         "type": "file",
-        "title": "File 1"
+        "title": "File 3"
       },
       {
         "id": "folder_2",
@@ -38,6 +38,18 @@
                 "id": "file_366",
                 "type": "file",
                 "title": "File 366"
+              },
+              {
+                "id": "folder_367",
+                "type": "folder",
+                "title": "Folder 367",
+                "content": [
+                  {
+                    "id": "file_801",
+                    "type": "file",
+                    "title": "File 801"
+                  }
+                ]
               }
             ]
           },

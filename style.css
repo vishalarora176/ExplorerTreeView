@@ -7,3 +7,21 @@
   margin-left: 20px;
   border: 1px solid gray;
 }
+
+dt, dd {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
+
+dl {
+  margin-top: 0;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
